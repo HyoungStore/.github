@@ -20,7 +20,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/> 
 </a> 
 <a href="https://getbootstrap.kr/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="XD" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="XD" width="40" height="40"/> 
 </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 

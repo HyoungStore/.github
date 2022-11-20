@@ -44,3 +44,9 @@
 </p>
 
 <br>
+<br>
+
+#### Logo
+<p align="center">
+<img width="700px" src="/profile/image/logo.png" />
+</p>

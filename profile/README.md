@@ -56,5 +56,5 @@
 
 #### Demonstration Video
 <p align="center">
-[![Video Label](http://img.youtube.com/vi/LDhX1-1IypA/0.jpg)](https://youtu.be/LDhX1-1IypA)
+[![8. 형스토어_2022캡스톤작품시연](http://img.youtube.com/vi/LDhX1-1IypA/0.jpg)](https://youtu.be/LDhX1-1IypA?t=0s) 
 </p>

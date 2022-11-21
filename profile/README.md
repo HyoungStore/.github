@@ -56,5 +56,5 @@
 
 #### Demonstration Video
 <p align="center">
-[![HyungStore](https://markdown-videos.deta/youtube/LDhX1-1IypA)](https://youtu.be/LDhX1-1IypA)
+[![HyungStore](https://img.youtube.com/vi/LDhX1-1IypA/0.jpg)](https://www.youtube.com/watch?v=LDhX1-1IypA)
 </p>

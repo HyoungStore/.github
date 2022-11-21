@@ -55,6 +55,6 @@
 <br>
 
 #### Demonstration Video
-<p align="center">
-[![HyungStore](https://img.youtube.com/vi/LDhX1-1IypA/0.jpg)](https://www.youtube.com/watch?v=LDhX1-1IypA)
+<p align="left">
+<p> https://www.youtube.com/watch?v=LDhX1-1IypA </p>
 </p>

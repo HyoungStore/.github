@@ -55,6 +55,6 @@
 <br>
 
 #### Demonstration Video
-<p align="left">
-<p> https://www.youtube.com/watch?v=LDhX1-1IypA </p>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=LDhX1-1IypA"><img width="700px" src="/profile/image/index.PNG" /> </a>
 </p>

@@ -56,5 +56,5 @@
 
 #### Demonstration Video
 <p align="center">
-<iframe width="956" height="538" src="https://www.youtube.com/embed/LDhX1-1IypA" title="8. 형스토어_2022캡스톤작품시연" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />
+[![HyungStore](https://markdown-videos.deta/youtube/LDhX1-1IypA)](https://youtu.be/LDhX1-1IypA)
 </p>

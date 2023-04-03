@@ -2,8 +2,8 @@
 
 | Name    | 신재용  | 김형준  | 정현우   | 여동진  |
 | ------- | --------------------------------------------- | --------------------------------------------- | --------------------------------------------- | --------------------------------------------- |
-| Role    | FE & BE & AI & DB   | FE & Design       | FE & BE       | DevOps      |
-| Github  | [@sls0263](https://github.com/sls0263) | [@KHJ335](https://github.com/KHJ335) | [@Jung-Hyunwoo](https://github.com/Jung-Hyunwoo) | [@pig000207](https://github.com/pig000207) |
+| Role    | FE & BE & AI & DB   | FE & BE & Design       | FE & BE       | DevOps      |
+| Github  | [@sls0263](https://github.com/sls0263) | [@KHJ3535](https://github.com/KHJ3535) | [@Jung-Hyunwoo](https://github.com/Jung-Hyunwoo) | [@pig000207](https://github.com/pig000207) |
 
 ## Web
 
@@ -58,3 +58,4 @@
 <p align="center">
 <a href="https://www.youtube.com/watch?v=LDhX1-1IypA"><img width="700px" src="/profile/image/index.PNG" /> </a>
 </p>
+
